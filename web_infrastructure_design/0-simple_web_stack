@@ -45,10 +45,3 @@ This simple web stack is designed to host a website accessible at `www.foobar.co
    - The single server cannot handle high traffic loads efficiently.
 
 ---
-
-### Instructions
-1. Update the link to your diagram once you upload it to an image hosting service.
-2. Save the file as `0-simple_web_stack` (no file extension).
-3. Push it to the correct directory in your GitHub repository.
-
----
