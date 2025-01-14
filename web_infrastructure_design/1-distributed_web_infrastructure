@@ -1,4 +1,4 @@
-Distributed Web Infrastructure Design
+
 Description of the Infrastructure
 This distributed web infrastructure is designed to host the website www.foobar.com. It improves availability and scalability compared to a single-server setup.
 
